@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1481633444 source:/home/flavien/Bureau/test/main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"fonction.h"
+
+1481633260 /home/flavien/Bureau/test/fonction.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+
+1481633419 source:/home/flavien/Bureau/test/fonction.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+

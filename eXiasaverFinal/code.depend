@@ -1,0 +1,151 @@
+# depslib dependency file v1.0
+1481633444 source:d:\exia\a1 2016-2017\projet\projet 2 - programmation système\code\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"fonction.h"
+
+1481660869 h"
+
+1481660138 
+
+1481470243 source:d:\exia\a1 2016-2017\projet\projet 2 - programmation système\code saveinfo\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1481469972 source:h:\exia\a1 2016-2017\projet\projet 2 - programmation système\code saveinfo\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1481554506 source:/home/flavien/Bureau/Projet/code/main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"fonction.h"
+
+1481554301 /home/flavien/Bureau/Projet/code/fonction.h
+
+1481558283 source:/home/flavien/Bureau/Projet/code/fonction.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+
+1481633260 d:\exia\a1 2016-2017\projet\projet 2 - programmation système\code\fonction.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+
+1481633419 source:d:\exia\a1 2016-2017\projet\projet 2 - programmation système\code\fonction.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+
+1481625153 source:d:\exia\a1 2016-2017\projet\projet 2 - programmation système\code - test\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"fonction.h"
+
+1481633260 d:\exia\a1 2016-2017\projet\projet 2 - programmation système\code - test\fonction.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+
+1481633419 source:d:\exia\a1 2016-2017\projet\projet 2 - programmation système\code - test\fonction.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+
+1481634520 source:/home/flavien/Bureau/projet/code/fonction.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+
+1481643793 source:/home/flavien/Bureau/projet/code/main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"fonction.h"
+
+1481633260 /home/flavien/Bureau/projet/code/fonction.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+
+1481659825 source:/home/flavien/Bureau/eXiasaver/main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"fonction.h"
+
+1481660138 /home/flavien/Bureau/eXiasaver/fonction.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+
+1481660327 source:/home/flavien/Bureau/eXiasaver/fonction.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+
+1481660327 source:h:\exia\a1 2016-2017\projet\projet 2 - programmation système\exiasaver\fonction.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+
+1481660869 source:h:\exia\a1 2016-2017\projet\projet 2 - programmation système\exiasaver\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"fonction.h"
+
+1481660138 h:\exia\a1 2016-2017\projet\projet 2 - programmation système\exiasaver\fonction.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+
+1481794670 source:/home/flavien/Bureau/eXiasaver/fonction.c
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<time.h>
+	<string.h>
+	<sys/types.h>
+
+1481797250 source:/home/flavien/Bureau/eXiasaver/main.c
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<time.h>
+	<string.h>
+	<sys/types.h>
+	<sys/wait.h>
+	"fonction.h"
+
+1481790243 /home/flavien/Bureau/eXiasaver/fonction.h
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<time.h>
+	<string.h>
+	<sys/types.h>
+
